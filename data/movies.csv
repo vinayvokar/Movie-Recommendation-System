@@ -1,0 +1,76 @@
+movie_id,title,genres,director
+1,The Dark Knight,"Action, Crime, Drama",Christopher Nolan
+2,Inception,"Action, Sci-Fi",Christopher Nolan
+3,The Godfather,"Crime, Drama",Francis Ford Coppola
+4,Pulp Fiction,"Crime, Drama",Quentin Tarantino
+5,Fight Club,"Drama, Thriller",David Fincher
+6,The Shawshank Redemption,"Drama",Frank Darabont
+7,Forrest Gump,"Drama, Romance",Robert Zemeckis
+8,The Matrix,"Action, Sci-Fi", Lilly Wachowski
+9,Gladiator,"Action, Adventure, Drama",Ridley Scott
+10,Schindler's List,"Biography, Drama, History",Steven Spielberg
+11,The Social Network,"Biography, Drama",David Fincher
+12,Interstellar,"Adventure, Drama, Sci-Fi",Christopher Nolan
+13,Parasite,"Comedy, Drama, Thriller",Bong Joon-ho
+14,La La Land,"Comedy, Drama, Music",Damien Chazelle
+15,The Grand Budapest Hotel,"Adventure, Comedy, Crime",Wes Anderson
+16,The Silence of the Lambs,"Crime, Drama, Thriller",Jonathan Demme
+17,Saving Private Ryan,"Drama, War",Steven Spielberg
+18,Braveheart,"Biography, Drama, History",Mel Gibson
+19,The Departed,"Crime, Drama, Thriller",Martin Scorsese
+20,The Prestige,"Drama, Mystery, Sci-Fi",Christopher Nolan
+21,The Green Mile,"Crime, Drama, Fantasy",Frank Darabont
+22,Django Unchained,"Drama, Western",Quentin Tarantino
+23,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",George Miller
+24,Black Panther,"Action, Adventure, Sci-Fi",Ryan Coogler
+25,Avengers: Endgame,"Action, Adventure, Sci-Fi",Joe Russo
+26,Jurassic Park,"Action, Adventure, Sci-Fi",Steven Spielberg
+27,The Lion King,"Animation, Adventure, Drama",Rob Minkoff
+28,The Wolf of Wall Street,"Biography, Comedy, Crime",Martin Scorsese
+29,Whiplash,"Drama, Music",Damien Chazelle
+30,12 Years a Slave,"Biography, Drama, History",Steve McQueen
+31,The Revenant,"Action, Adventure, Drama",Alejandro G. Iñárritu
+32,Her,"Drama, Romance, Sci-Fi",Spike Jonze
+33,Get Out,"Horror, Mystery, Thriller",Jordan Peele
+34,A Beautiful Mind,"Biography, Drama",Ron Howard
+35,Slumdog Millionaire,"Drama, Romance",Danny Boyle
+36,The Hurt Locker,"Drama, Thriller, War",Kathryn Bigelow
+37,No Country for Old Men,"Crime, Drama, Thriller",Joel Coen
+38,Birdman,"Comedy, Drama",Alejandro G. Iñárritu
+39,Logan,"Action, Drama, Sci-Fi",James Mangold
+40,Guardians of the Galaxy,"Action, Adventure, Comedy",James Gunn
+41,Blade Runner 2049,"Action, Drama, Sci-Fi",Denis Villeneuve
+42,The Big Short,"Biography, Comedy, Drama",Adam McKay
+43,The Imitation Game,"Biography, Drama, Thriller",Morten Tyldum
+44,Inglourious Basterds,"Adventure, Drama, War",Quentin Tarantino
+45,Shutter Island,"Mystery, Thriller",Martin Scorsese
+46,A Quiet Place,"Drama, Horror, Sci-Fi",John Krasinski
+47,Moonlight,"Drama",Barry Jenkins
+48,The Irishman,"Biography, Crime, Drama",Martin Scorsese
+49,La La Land,"Comedy, Drama, Music",Damien Chazelle
+50,Lady Bird,"Comedy, Drama",Greta Gerwig
+51,The Social Network,"Biography, Drama",David Fincher
+52,Prisoners,"Crime, Drama, Thriller",Denis Villeneuve
+53,Gone Girl,"Drama, Mystery, Thriller",David Fincher
+54,The King's Speech,"Biography, Drama, History",Tom Hooper
+55,Bohemian Rhapsody,"Biography, Drama, Music",Bryan Singer
+56,Spotlight,"Biography, Crime, Drama",Tom McCarthy
+57,Argo,"Biography, Drama, Thriller",Ben Affleck
+58,Boyhood,"Drama",Richard Linklater
+59,American Hustle,"Crime, Drama",David O. Russell
+60,Arrival,"Drama, Sci-Fi, Thriller",Denis Villeneuve
+61,The Theory of Everything,"Biography, Drama, Romance",James Marsh
+62,The Danish Girl,"Biography, Drama, Romance",Tom Hooper
+63,Phantom Thread,"Drama, Romance",Paul Thomas Anderson
+64,The Shape of Water,"Adventure, Drama, Fantasy",Guillermo del Toro
+65,Dunkirk,"Action, Drama, History",Christopher Nolan
+66,The Favourite,"Biography, Comedy, Drama",Yorgos Lanthimos
+67,Roma,"Drama",Alfonso Cuarón
+68,The Florida Project,"Drama",Sean Baker
+69,Midsommar,"Drama, Horror, Mystery",Ari Aster
+70,Once Upon a Time in Hollywood,"Comedy, Drama",Quentin Tarantino
+71,Parasite,"Comedy, Drama, Thriller",Bong Joon-ho
+72,Knives Out,"Comedy, Crime, Drama",Rian Johnson
+73,Joker,"Crime, Drama, Thriller",Todd Phillips
+74,Uncut Gems,"Crime, Drama, Thriller",Josh Safdie
+75,Marriage Story,"Drama, Romance",Noah Baumbach

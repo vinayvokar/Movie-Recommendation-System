@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendation System</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Movie Recommendation System</h1>
+
+        <form action="/recommend/" method="POST">
+            {% csrf_token %}
+            <label for="title">Enter a movie title:</label>
+            <input type="text" id="title" name="title" placeholder="E.g., The Dark Knight">
+            <button type="submit">Get Recommendations</button>
+        </form>
+
+        {% if error %}
+        <div class="error">
+            <p>{{ error }}</p>
+        </div>
+        {% endif %}
+
+        {% if recommendations %}
+        <div class="results">
+            <h2>Recommendations for "{{ title }}":</h2>
+            <ul>
+                {% for movie, score in recommendations %}
+                    <li>{{ movie }} - Sentiment Score: {{ score }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
